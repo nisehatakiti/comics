@@ -10,7 +10,7 @@
 
 正典キャラクターシートは次のファイル名で管理する。
 
-`design/character-sheet.png`
+`design/character-sheet.jpg`
 
 この画像は、正面・側面・背面、表情、基本ポーズ、カラー、首輪などを確認するための基準資料とする。
 
